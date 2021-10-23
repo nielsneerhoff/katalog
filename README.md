@@ -1,2 +1,2 @@
-# katalog
-Discover music
+# Katalog
+Discover influences of music
