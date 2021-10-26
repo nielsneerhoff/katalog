@@ -1,4 +1,4 @@
-# Katalog
+# Katalog - explainable AI for exploring musical influences
 With Katalog you discover influences of different music genres across songs.
 
 For instance:
